@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="MicrosoftTest">
+        <parameter name="spring.profiles.active" value="dev" />
+        <classes>
+            <class name="agilethought.automation.test.MicrosoftTest" />
+        </classes>
+    </test>
+</suite>

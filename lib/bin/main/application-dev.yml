@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO
+    
+test:
+  url: "https://www.microsoft.com/en-us/"
